@@ -1,0 +1,8 @@
+/dist/
+/html/
+node_modules/
+
+# vs code
+.vscode/*
+!.vscode/extensions.json
+
